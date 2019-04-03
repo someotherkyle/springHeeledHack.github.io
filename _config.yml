@@ -1,11 +1,11 @@
 # Site settings
-author: kyle smith
-title: 
+author: Kyle Smith
+title: Somewhere between Infinity War and Hotel Transylvania 
 header-img: img/home-bg.png
 email: kylemclellan@gmail.com
-copyright_name: kyle smith
+copyright_name: Kyle Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+   
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  springHeeledHack
